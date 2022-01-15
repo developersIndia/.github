@@ -15,4 +15,9 @@ Just to make sure what we are doing right now and what we plan to do in future, 
 - Provide Opportunities and Mentorship
 
 ## Contact
+
 For any queries, feedback reach out to us on [_contact.developersindia@gmail.com_](mailto:contact.developersindia@gmail.com)
+
+<!-- DO NOT REMOVE THESE 2 badges -->
+[![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
+[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
