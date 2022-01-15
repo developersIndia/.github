@@ -1,4 +1,6 @@
-## Who we are 🇮🇳
+
+
+## Who we are <img height="25" src="https://user-images.githubusercontent.com/34342551/149631807-7d1557dc-13a5-4eed-9570-caa7f4d5fd83.gif">
 
 Home to India's largest developer community with more than 14k developers, engineers, programmers, hackers and software peeps in India.
 
