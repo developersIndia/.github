@@ -19,3 +19,6 @@ Just to make sure what we are doing right now and what we plan to do in future, 
 - Make a strong and powerful culture of free and open-source software.
 - Help and nurture next generation of programmers.
 - Provide Opportunities and Mentorship
+
+## Contact
+For any queries, feedback reach out to us on [_contact.developersindia@gmail.com_](mailto:contact.developersindia@gmail.com)
