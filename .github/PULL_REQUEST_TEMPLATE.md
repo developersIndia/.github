@@ -6,11 +6,16 @@ Please include a summary of the change and which issue is fixed. Also include re
 
 Fixes #(Insert Issue Here Without Brackets)
 
-## Type of Change
+## Changes Include
 
 Please delete options that are not relevant.
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] Bug fix 🐛 (non-breaking change which fixes an issue)
+- [ ] New feature ✨ (non-breaking change which adds functionality)
+- [ ] Breaking change 😢 (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Refactor ⚒️ (code change that neither fixes a bug nor adds a feature)
+- [ ] Tooling ⚙️ (Changes to the build process or auxiliary tools and libraries such as documentation generation)
+- [ ] Performance ⚡ (code change that improves performance)- [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
@@ -33,3 +38,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] I have checked my code and corrected any misspellings
+
+## Screenshots (if any)
+
+(prefer animated gif)
