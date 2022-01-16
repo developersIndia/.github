@@ -34,4 +34,4 @@ It is foreseeable that this code of conduct will need additions and to be improv
 # Attribution
 Portions of this Code of Conduct were inspired by the following:
 * [The OSSU Code of Conduct](https://github.com/ossu/code-of-conduct)
-* [opensourcedesign.net's COC](https://github.com/opensourcedesign/opensourcedesign.github.io/blob/master/code-of-conduct.mds)
+* [opensourcedesign.net's COC](https://github.com/opensourcedesign/opensourcedesign.github.io/blob/master/code-of-conduct.md)
