@@ -1,12 +1,15 @@
-In order to keep the DevelopersIndia community warm, welcoming, and safe place we ask that all participants read and adhere to the following code of conduct.
+In order to keep the DevelopersIndia community warm, welcoming, and a safe place we ask that all participants read and adhere to the following code of conduct.
 
 # Rules
+
 * Be kind and courteous to your fellow members.
 * Criticize ideas, not people.
-* Discuss publicly. Refrain from direct messaging people unless it is specifically requested.
+* Discuss publicly and refrain from direct messaging people unless it is specifically requested.
 * Don't be offensive
 * Ask questions; don't ask to ask. There’s no need to write "Is there anyone that can help me with X?" Just ask about X.
+
 # Prohibitions
+
 * No violence or threats of violence of any kind.
 * No sexist, racist, homophobic, transphobic, or any other prejudiced or discriminatory language or actions; this includes jokes.
 * No sexual harrasment, including unwelcome sexual advances or offensive remarks about a person's sex.
