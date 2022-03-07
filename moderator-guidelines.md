@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-1. As an active community moderator, you need to make sure that the folks inside community follow the rules as enforced inside each channel, this involves no-one violates the Code of Conduct
+1. As an active community moderator, you need to make sure that the folks inside community follow the rules as enforced inside each channel, this involves checking that no-one violates the [Code of Conduct](https://github.com/developersIndia/.github/blob/main/CODE_OF_CONDUCT.md)
 2. Participate in community team meetings, provide feedback on how & what the community can do to improve the experience.
 3. Participate in community software projects in any way
 
@@ -33,4 +33,4 @@ Below is a set of guidelines that is expected to be followed by each community m
 5. You treat people with respect regardless of their disagreements or differences with you
 
 
-[**Join Us**](https://bit.ly/devsindia-mod) as a community moderator and helps us build the largest community of software folks in India 🚀.
+### [**Join Us**](https://bit.ly/devsindia-mod) as a community moderator and helps us build the largest community of software folks in India 🚀.
