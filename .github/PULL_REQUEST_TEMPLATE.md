@@ -1,7 +1,6 @@
-# Pull Request Template
-
 ## Description
 
+<!-- Please delete the below paragraph and describe your changes  -->
 Please include a summary of the change and which issue is fixed. Also include relevant motivation & further context of what the PR is all about. List any dependencies that are required for this change.
 
 Fixes #(Insert Issue Here Without Brackets)
@@ -15,10 +14,8 @@ Fixes #(Insert Issue Here Without Brackets)
 - [ ] Breaking change 😢 (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Refactor ⚒️ (code change that neither fixes a bug nor adds a feature)
 - [ ] Tooling ⚙️ (Changes to the build process or auxiliary tools and libraries such as documentation generation)
-- [ ] Performance ⚡ (code change that improves performance)- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Performance ⚡ (code change that improves performance)
+- [ ] This change requires a documentation update 📖
 
 ## How Has This Been Tested?
 
