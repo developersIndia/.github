@@ -1,12 +1,12 @@
 # <img height="25" src="https://user-images.githubusercontent.com/34342551/149631807-7d1557dc-13a5-4eed-9570-caa7f4d5fd83.gif"> The developersIndia Community
 
-Home to India's largest developer community with over 14k developers, engineers, programmers, hackers and people who're generally interested to learning more about software developement and/or Computer Science in India. From experienced professionals to new high-school students, we are home to every kind of "_developers_" in India. And that's why even the motto of our subreddit is stated as;
+Home to India's largest developer community network with over `55k` developers, engineers, programmers, hackers and people who're generally interested to learn more about tech in India. From experienced professionals to new high-school students, we are home to every kind of "_developer_" in India. And that's why even the motto of our subreddit is stated as;
 
-> _**A wholesome community made by & for Indian developers**_
+> _**A wholesome community made by & for software & tech folks in India. Have a doubt? Ask it out.**_
 
 Over the years a lot of user groups have emerged belonging to different tech communities for Python, Linux etc but there was a lack of India-centric software development community.
 
-On top of that, India is a country of a huge population & more often than not, the suggestions & opinions available on other online communities like HackerNews do not apply to Indian software devs. Hence, we strive towards providing that exact opportunity to those who need a platform to either share or gain some knowledge particular to the Indian software dev scene.
+On top of that, India is a country of a huge population & more often than not, the suggestions & opinions available on other online communities like HackerNews do not apply to Indian software folks. Hence, we strive towards providing that exact opportunity to those who need a platform to either share or gain some knowledge particular to the Indian software scene.
 
 ## 🎯 Our Goals
 
