@@ -1,6 +1,5 @@
-name: Feature Request
+name: Feature Request ✨
 description: Request a feature
-title: "[FEATURE REQUEST]: "
 labels: ["enhancement"]
 assignees:
   - "Jarmos-san"
