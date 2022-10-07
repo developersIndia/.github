@@ -8,7 +8,8 @@
 
 ## Moderator Code of Conduct
 
-Below is a set of guidelines that is expected to be followed by each community moderator of **developersIndia**.
+- Follow Reddit's [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct)
+- Below is a set of guidelines that is expected to be followed by each community moderator of **developersIndia**.
 
 ### Be curious and have a growth mindset
 
