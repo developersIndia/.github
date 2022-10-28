@@ -33,5 +33,19 @@
 4. You don't attack people personally while giving feedback.
 5. You treat people with respect regardless of their disagreements or differences with you.
 
+## Collaboration & Work Styles
+
+This section highlights how the mod & admins can work together with each other in harmony and build a trust among each other. We highly recommend reading this.
+
+- In case of any disputes among mods or between mods & admins. The final decision is taken by community admins.
+- We don't want (or expect) you to work `24x7`, being a moderator & community builder is a thankless job. So if you choose to be one, know the consequences in & out. Nevertheless, we (community admins) greatly appreciate your work ♥️ .
+- To build a mutual understanding with each other, we recommend talking with each other over an **audio** call (either on google meet, discord VC etc). If you are uncomfortable with hopping over a call. Building trust over a huge distance over "text" chat doesn't work and has never worked. To fix this we need to be able to talk with you to understand why you want to be a community moderator & what motivates you to stick with the community.
+- We expect you to take ownership of things you suggest, instead of pinging other members you should be able to execute decisions you suggest. In case of permission issues ping admin team.
+- You are always free to provide feedback to other members on how they work but make sure that no-one gets hurts in this process, i.e instead of criticising people give them a possible solution or a way to improve. In case of disputes, try to avoid arguing over internet. Always know there is a real person on the other side of screen. (Note: this can be prevented if everyone trusts each other).
+- You are free to leave the team at any point of time, just ping a admin and we will relieve you of your duties. As soon as you leave, you are not entitled to talk on behalf of the community team.
+- You are free to take long breaks as you need (please try to prevent burnout), just let the other team members know that you will not be available for sometime.
+
+If you don't agree with any one point in this list, we recommend you to NOT join the mod team. If you have some follow up questions on some item, feel free to ping the admin team or a representative of the team.
+
 
 ### [**Join Us**](https://bit.ly/devsindia-mod) as a community moderator and helps us build the largest community of software & tech folks in India 🚀.
