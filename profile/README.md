@@ -30,8 +30,8 @@ Our community is open to everyone across the world of any ethnicity & colour. We
 
 ## 📇 Contact Us
 
-For queries & feedback, feel free to reach us out on [_contact.developersindia@gmail.com_](mailto:contact.developersindia@gmail.com)
+For queries & feedback, feel free to reach us out on [_contact@developersindia.in_](mailto:contact@developersindia.in)
 
 <!-- DO NOT REMOVE THESE 2 badges -->
-[![Discord](https://img.shields.io/discord/669880381649977354?color=blue)](https://discordapp.com/invite/MKXMSNC)
+[![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
 [![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
