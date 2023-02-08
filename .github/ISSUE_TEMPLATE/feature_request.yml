@@ -1,9 +1,6 @@
 name: Feature Request ✨
 description: Request a feature
 labels: ["enhancement"]
-assignees:
-  - "Jarmos-san"
-  - "Bhupesh-V"
 body:
   - type: markdown
     attributes:
