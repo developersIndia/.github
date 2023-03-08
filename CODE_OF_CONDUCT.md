@@ -18,7 +18,7 @@ In order to keep the developersIndia community warm, welcoming, and safe, we ask
 1. No revealing another's private information against their wishes (doxing).
 1. No stalking or intimidation, online or otherwise.
 1. No spamming, trolling, flaming, or other disruptions of the peace.
-1. No advocating or threatening of any of the above behaviors.
+1. No advocating or threatening of any of the above behaviours.
 
 ## Where this Code of Conduct upholds
 
@@ -26,9 +26,9 @@ This code of conduct pertains to our online community platforms (GitHub: [@devel
 
 ## Consequences for violations.
 
-If a participant engages in behavior violating this code of conduct, the core members of this community may take any action they deem appropriate. Actions may range from a simple warning to the most drastic: expulsion from the community, exclusion from any interaction, and loss of all rights in the community.
+If a participant engages in behaviour violating this code of conduct, the core members of this community may take any action they deem appropriate. Actions may range from a simple warning to the most drastic: expulsion from the community, exclusion from any interaction, and loss of all rights in the community.
 
-You can reach out to the developersIndia community team by e-mailing `contact.developersindia at gmail.com`. You can also directly reach out to one of the core members:
+You can reach out to the developersIndia community team by e-mailing `contact@developersindia.in`. You can also directly reach out to one of the core members:
 
 1. [Sidharth Gehlot](mailto:tosidharthgehlot@gmail.com)
 2. [Bhupesh Varshney](mailto:varshneybhupesh@gmail.com)
