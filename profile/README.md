@@ -10,15 +10,6 @@ Over the years a lot of user groups have emerged belonging to different tech com
 
 On top of that, India is a country with a huge population & more often than not, the suggestions & opinions available on other online communities like HackerNews do not apply to Indian software folks. Hence, we strive towards providing that exact opportunity to those who need a platform to either share or gain some knowledge particular to the Indian software scene.
 
-## 🎯 Our Goals and Achievements
-
-Through our community efforts, we aim to:
-
-- Bring together developers in India & uplift the scenario of tech workers in our country.
-- Educate & attempt to develop a strong & powerful culture of free and open-source software (FOSS) scene in the country.
-- Help and nurture the next generation of Indian programmers.
-- Provide networking opportunities & mentorship programs to those who need it the most.
-
 ## 🧑‍🤝‍🧑 Join the Community
 
 <!-- Update this section as & when necessary -->
