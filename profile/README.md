@@ -29,4 +29,5 @@ Don't hesitate - [join our thriving community today](https://www.reddit.com/r/de
 
 <!-- DO NOT REMOVE THESE 2 badges -->
 [![Discord](https://img.shields.io/discord/669880381649977354?color=%237289da&label=Discord&logo=Discord)](https://discordapp.com/invite/MKXMSNC)
-[![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/developersIndia?style=social)](https://www.reddit.com/r/developersIndia/)
+[![Subreddit subscribers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fdevelopersindia.github.io%2Fmetrics%2Fdata%2F&query=%24.totalMembers&suffix=%20members&style=flat&logo=reddit&label=r%2FdevelopersIndia&color=orange&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FdevelopersIndia
+)](https://www.reddit.com/r/developersIndia/)
