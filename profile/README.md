@@ -12,14 +12,14 @@ On top of that, India is a country with a huge population & more often than not,
 
 ## 🧑‍🤝‍🧑 Join the Community
 
-<!-- Update this section as & when necessary -->
-Our community welcomes everyone, regardless of ethnicity or background. Please note that our discussions and projects are primarily India-centric. As such, here's how you can become a part of the community as well:
-
-1. Join our [Discord server](https://discord.com/invite/MKXMSNC) and the [subreddit](https://www.reddit.com/r/developersIndia) to answer/discuss among other Indian software folks.
-2. Find FOSS projects created by fellow Indians for the community so that members can contribute to it.
-3. Share your project with us to be marketed under the developersIndia banner for better reach & PR.
-
-**NOTE**: The aforementioned points aren't set in stone & if you believe you can contribute to the community in one way or the other, feel free to do so!
+What are we all doing?|What can you do?
+:-:|:-:
+[These community members are the builders we need](https://www.reddit.com/r/developersIndia/new/?f=flair_name%3A%22I%20Made%20This%20%3Asnoo_wink%3A%22)| Use what they build and provide feedback
+[These community members won their personal battles](https://www.reddit.com/r/developersIndia/new/?f=flair_name%3A%22Personal%20Win%20%E2%9C%A8%22)| Celebrate with them 🙌🏽
+[These members started amazing discussions](https://www.reddit.com/r/developersIndia/wiki/community-threads/) | Add your views ✍🏽
+[These great folks joined us for an AMA](https://www.reddit.com/r/developersIndia/?f=flair_name%3A%22AMA%22) | Gain insights
+[Every week we talk about something new](https://www.reddit.com/r/developersIndia/new/?f=flair_name%3A%22Weekly%20Discussion%20%F0%9F%92%AC%22) | Join in the discussion
+[These companies are hiring](https://www.reddit.com/r/developersIndia/?f=flair_name%3A%22Hiring%22) | Apply before its too late
 
 ## 📇 Get in Touch
 
