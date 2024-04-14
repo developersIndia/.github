@@ -4,7 +4,7 @@
 
 Home to India's largest developer community network with over `400k` developers, engineers, programmers, hackers, and tech workers. From experienced professionals to new high-school students, we are home to every kind of "_developer_" in India.
 
-Over the years a lot of user groups have emerged belonging to different tech communities for Python, Linux, etc. but there was a lack of India-centric software development community wherever everyone got a representation irrespective of tech stacks.
+Over the years a lot of user groups have emerged belonging to different tech communities for Python, Linux, etc. but there was a lack of India-centric software development community where everyone got a representation irrespective of tech stacks.
 
 ## 🧑‍🤝‍🧑 Join the Community
 
