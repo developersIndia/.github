@@ -2,9 +2,7 @@
 
 <!--<img height="50" width="50" src="https://user-images.githubusercontent.com/34342551/149631807-7d1557dc-13a5-4eed-9570-caa7f4d5fd83.gif">-->
 
-Home to India's largest developer community network with over `400k` developers, engineers, programmers, hackers, and tech workers. From experienced professionals to new high-school students, we are home to every kind of "_developer_" in India.
-
-Over the years a lot of user groups have emerged belonging to different tech communities for Python, Linux, etc. but there was a lack of India-centric software development community where everyone got a representation irrespective of tech stacks.
+Home to India's largest developer community network with over `900k` developers, engineers, programmers, hackers, & tech workers. From experienced professionals to new high-school students, we are home to every kind of "_developer/progammer_" in India.
 
 ## 🧑‍🤝‍🧑 Join the Community
 
